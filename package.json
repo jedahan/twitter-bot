@@ -1,0 +1,17 @@
+{
+  "name": "twitter-bot",
+  "version": "0.0.1",
+  "description": "Simple responding bot for twitter",
+  "author": "Jonathan Dahan <^_^@jonathan.is>",
+  "dependencies": {
+    "twit": "1.1.x"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "1.4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jedahan/twitter-bot.git"
+  }
+}
