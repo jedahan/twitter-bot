@@ -30,4 +30,10 @@
 
   * `npm start` will start the sample server
 
+
+## Deploying
+
+    heroku create
+    git push heroku master
+
 [node.js]: nodejs.org
